@@ -1,5 +1,13 @@
 # Elliptic Curve Cryptography
 
+![Go report card](https://goreportcard.com/badge/github.com/1william1/ecc)
+[![GoDoc](https://godoc.org/github.com/1william1/ecc?status.svg)](https://godoc.org/github.com/1william1/ecc)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/1william1/ecc/graphs/commit-activity)
+[![License](https://img.shields.io/github/license/1william1/ecc.svg)](https://github.com/1william1/ecc/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/1william1/ecc.svg)](https://GitHub.com/1william1/ecc/releases/)
+[![GitHub issues](https://img.shields.io/github/issues/1william1/ecc.svg)](https://GitHub.com/1william1/ecc/issues/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ECC is a Golang package which provides a uniform API for using Elliptic curves with one single key pair, instead of having to use specific libraries with different key structs e.g. ECDSA's key. Supporting any elliptic.curve with easy capabilities to switch it out. Even P521 is supported! I won't even comment on the struggles of that one. 
 
 ### Features
