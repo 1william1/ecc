@@ -35,7 +35,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/william1/ecc"
+	"github.com/1william1/ecc"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"crypto/sha512"
 	"testing"
 
-	"github.com/william1/ecc"
+	"github.com/1william1/ecc"
 )
 
 func TestParsePublicKey(t *testing.T) {
